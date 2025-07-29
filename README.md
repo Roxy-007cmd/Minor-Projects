@@ -1,1 +1,1 @@
-# Minor-Projects
+# Minor-Projects for the internship
